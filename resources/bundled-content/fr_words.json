@@ -1,0 +1,218 @@
+{
+  "language": "fr",
+  "language_name": "French",
+  "content_type": "words",
+  "version": 1,
+  "words": [
+    {
+      "id": "w001",
+      "english": "Hello",
+      "foreign": "Bonjour",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "w002",
+      "english": "Goodbye",
+      "foreign": "Au revoir",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "w003",
+      "english": "Please",
+      "foreign": "S'il vous plaît",
+      "category": "politeness",
+      "difficulty": 1
+    },
+    {
+      "id": "w004",
+      "english": "Thank you",
+      "foreign": "Merci",
+      "category": "politeness",
+      "difficulty": 1
+    },
+    {
+      "id": "w005",
+      "english": "Yes",
+      "foreign": "Oui",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": "w006",
+      "english": "No",
+      "foreign": "Non",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": "w007",
+      "english": "Sorry",
+      "foreign": "Désolé",
+      "category": "politeness",
+      "difficulty": 1
+    },
+    {
+      "id": "w008",
+      "english": "Water",
+      "foreign": "Eau",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w009",
+      "english": "Bread",
+      "foreign": "Pain",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w010",
+      "english": "Apple",
+      "foreign": "Pomme",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w011",
+      "english": "Coffee",
+      "foreign": "Café",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w012",
+      "english": "Milk",
+      "foreign": "Lait",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w013",
+      "english": "House",
+      "foreign": "Maison",
+      "category": "home",
+      "difficulty": 2
+    },
+    {
+      "id": "w014",
+      "english": "Car",
+      "foreign": "Voiture",
+      "category": "travel",
+      "difficulty": 2
+    },
+    {
+      "id": "w015",
+      "english": "Book",
+      "foreign": "Livre",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "id": "w016",
+      "english": "Friend",
+      "foreign": "Ami",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "id": "w017",
+      "english": "Mother",
+      "foreign": "Mère",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": "w018",
+      "english": "Father",
+      "foreign": "Père",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": "w019",
+      "english": "Brother",
+      "foreign": "Frère",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": "w020",
+      "english": "Sister",
+      "foreign": "Sœur",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": "w021",
+      "english": "Good",
+      "foreign": "Bon",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w022",
+      "english": "Bad",
+      "foreign": "Mauvais",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w023",
+      "english": "Big",
+      "foreign": "Grand",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w024",
+      "english": "Small",
+      "foreign": "Petit",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w025",
+      "english": "Beautiful",
+      "foreign": "Beau",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w026",
+      "english": "One",
+      "foreign": "Un",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": "w027",
+      "english": "Two",
+      "foreign": "Deux",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": "w028",
+      "english": "Three",
+      "foreign": "Trois",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": "w029",
+      "english": "Where",
+      "foreign": "Où",
+      "category": "questions",
+      "difficulty": 2
+    },
+    {
+      "id": "w030",
+      "english": "What",
+      "foreign": "Quoi",
+      "category": "questions",
+      "difficulty": 2
+    }
+  ]
+}

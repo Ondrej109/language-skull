@@ -1,0 +1,22 @@
+---
+description: "Design & Interaction Quality Bar, exact color palette, aesthetic direction (dark academia / Old Oxford), header/avatar UX rules, and flashcards interaction standards for Language Skull. ALWAYS APPLY these when designing or implementing any UI."
+alwaysApply: true
+---
+
+# Language Skull – Design System & Quality Bar
+
+**Design & Interaction Quality Bar (Non-Negotiable):**
+- The app must feel **modern, ultra-polished, and buttery smooth**.
+- Every interaction should be a **joy to use**.
+- **Flashcards** in particular must be world-class: super smooth animations, satisfying gestures (swipe + tap-to-flip), visually stunning, delightful micro-interactions, and buttery 60/120fps performance.
+- Overall aesthetic: Sophisticated dark academia — think **Old Oxford or Harvard of 100 years ago**. Polished, elegant, a little dark and mysterious. **Not** parchment, wax, or overly ornate gothic. Refined, premium, understated elegance with subtle mystery.
+
+**Color Palette (exact):**
+- Background: #050505
+- Surfaces / Cards: #111111 + material effects
+- Accent: #4A1C1C (muted burgundy)
+- Highlight: #D4C4A8 (subtle parchment tone, used sparingly)
+- Text: #FFFFFF primary, #E5E5E5 secondary
+
+**Header & Navigation Design:**
+- Header: Right side = circular User Avatar. Tap opens native Menu with: Profile, Manage Plan, Refer a Friend, Sign Out. NO logo in header.

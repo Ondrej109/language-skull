@@ -1,0 +1,218 @@
+{
+  "language": "es",
+  "language_name": "Spanish",
+  "content_type": "words",
+  "version": 1,
+  "words": [
+    {
+      "id": "w001",
+      "english": "Hello",
+      "foreign": "Hola",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "w002",
+      "english": "Goodbye",
+      "foreign": "Adiós",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "w003",
+      "english": "Please",
+      "foreign": "Por favor",
+      "category": "politeness",
+      "difficulty": 1
+    },
+    {
+      "id": "w004",
+      "english": "Thank you",
+      "foreign": "Gracias",
+      "category": "politeness",
+      "difficulty": 1
+    },
+    {
+      "id": "w005",
+      "english": "Yes",
+      "foreign": "Sí",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": "w006",
+      "english": "No",
+      "foreign": "No",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": "w007",
+      "english": "Sorry",
+      "foreign": "Lo siento",
+      "category": "politeness",
+      "difficulty": 1
+    },
+    {
+      "id": "w008",
+      "english": "Water",
+      "foreign": "Agua",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w009",
+      "english": "Bread",
+      "foreign": "Pan",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w010",
+      "english": "Apple",
+      "foreign": "Manzana",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w011",
+      "english": "Coffee",
+      "foreign": "Café",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w012",
+      "english": "Milk",
+      "foreign": "Leche",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w013",
+      "english": "House",
+      "foreign": "Casa",
+      "category": "home",
+      "difficulty": 2
+    },
+    {
+      "id": "w014",
+      "english": "Car",
+      "foreign": "Coche",
+      "category": "travel",
+      "difficulty": 2
+    },
+    {
+      "id": "w015",
+      "english": "Book",
+      "foreign": "Libro",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "id": "w016",
+      "english": "Friend",
+      "foreign": "Amigo",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "id": "w017",
+      "english": "Mother",
+      "foreign": "Madre",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": "w018",
+      "english": "Father",
+      "foreign": "Padre",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": "w019",
+      "english": "Brother",
+      "foreign": "Hermano",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": "w020",
+      "english": "Sister",
+      "foreign": "Hermana",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": "w021",
+      "english": "Good",
+      "foreign": "Bueno",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w022",
+      "english": "Bad",
+      "foreign": "Malo",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w023",
+      "english": "Big",
+      "foreign": "Grande",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w024",
+      "english": "Small",
+      "foreign": "Pequeño",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w025",
+      "english": "Beautiful",
+      "foreign": "Hermoso",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w026",
+      "english": "One",
+      "foreign": "Uno",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": "w027",
+      "english": "Two",
+      "foreign": "Dos",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": "w028",
+      "english": "Three",
+      "foreign": "Tres",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": "w029",
+      "english": "Where",
+      "foreign": "Dónde",
+      "category": "questions",
+      "difficulty": 2
+    },
+    {
+      "id": "w030",
+      "english": "What",
+      "foreign": "Qué",
+      "category": "questions",
+      "difficulty": 2
+    }
+  ]
+}

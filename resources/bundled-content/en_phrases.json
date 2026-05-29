@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "language_name": "English",
+  "content_type": "phrases",
+  "version": 1,
+  "phrases": [
+    {
+      "id": "p001",
+      "english": "How are you?",
+      "foreign": "How are you?",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p002",
+      "english": "Nice to meet you.",
+      "foreign": "Nice to meet you.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p003",
+      "english": "What is your name?",
+      "foreign": "What is your name?",
+      "category": "introductions",
+      "difficulty": 1
+    },
+    {
+      "id": "p004",
+      "english": "My name is John.",
+      "foreign": "My name is John.",
+      "category": "introductions",
+      "difficulty": 1
+    },
+    {
+      "id": "p005",
+      "english": "Where is the bathroom?",
+      "foreign": "Where is the bathroom?",
+      "category": "travel",
+      "difficulty": 2
+    },
+    {
+      "id": "p006",
+      "english": "How much does it cost?",
+      "foreign": "How much does it cost?",
+      "category": "travel",
+      "difficulty": 2
+    },
+    {
+      "id": "p007",
+      "english": "I don't understand.",
+      "foreign": "I don't understand.",
+      "category": "communication",
+      "difficulty": 2
+    },
+    {
+      "id": "p008",
+      "english": "Can you help me, please?",
+      "foreign": "Can you help me, please?",
+      "category": "communication",
+      "difficulty": 2
+    },
+    {
+      "id": "p009",
+      "english": "Good morning.",
+      "foreign": "Good morning.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p010",
+      "english": "Good night.",
+      "foreign": "Good night.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p011",
+      "english": "See you later.",
+      "foreign": "See you later.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p012",
+      "english": "I would like a coffee.",
+      "foreign": "I would like a coffee.",
+      "category": "food_drink",
+      "difficulty": 2
+    },
+    {
+      "id": "p013",
+      "english": "Do you speak English?",
+      "foreign": "Do you speak English?",
+      "category": "communication",
+      "difficulty": 2
+    },
+    {
+      "id": "p014",
+      "english": "I am from the United States.",
+      "foreign": "I am from the United States.",
+      "category": "introductions",
+      "difficulty": 2
+    },
+    {
+      "id": "p015",
+      "english": "Thank you very much.",
+      "foreign": "Thank you very much.",
+      "category": "politeness",
+      "difficulty": 1
+    }
+  ]
+}

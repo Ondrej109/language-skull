@@ -1,0 +1,113 @@
+{
+  "language": "es",
+  "language_name": "Spanish",
+  "content_type": "phrases",
+  "version": 1,
+  "phrases": [
+    {
+      "id": "p001",
+      "english": "How are you?",
+      "foreign": "¿Cómo estás?",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p002",
+      "english": "Nice to meet you.",
+      "foreign": "Mucho gusto.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p003",
+      "english": "What is your name?",
+      "foreign": "¿Cómo te llamas?",
+      "category": "introductions",
+      "difficulty": 1
+    },
+    {
+      "id": "p004",
+      "english": "My name is John.",
+      "foreign": "Me llamo John.",
+      "category": "introductions",
+      "difficulty": 1
+    },
+    {
+      "id": "p005",
+      "english": "Where is the bathroom?",
+      "foreign": "¿Dónde está el baño?",
+      "category": "travel",
+      "difficulty": 2
+    },
+    {
+      "id": "p006",
+      "english": "How much does it cost?",
+      "foreign": "¿Cuánto cuesta?",
+      "category": "travel",
+      "difficulty": 2
+    },
+    {
+      "id": "p007",
+      "english": "I don't understand.",
+      "foreign": "No entiendo.",
+      "category": "communication",
+      "difficulty": 2
+    },
+    {
+      "id": "p008",
+      "english": "Can you help me, please?",
+      "foreign": "¿Me puedes ayudar, por favor?",
+      "category": "communication",
+      "difficulty": 2
+    },
+    {
+      "id": "p009",
+      "english": "Good morning.",
+      "foreign": "Buenos días.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p010",
+      "english": "Good night.",
+      "foreign": "Buenas noches.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p011",
+      "english": "See you later.",
+      "foreign": "Hasta luego.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p012",
+      "english": "I would like a coffee.",
+      "foreign": "Me gustaría un café.",
+      "category": "food_drink",
+      "difficulty": 2
+    },
+    {
+      "id": "p013",
+      "english": "Do you speak English?",
+      "foreign": "¿Hablas inglés?",
+      "category": "communication",
+      "difficulty": 2
+    },
+    {
+      "id": "p014",
+      "english": "I am from the United States.",
+      "foreign": "Soy de los Estados Unidos.",
+      "category": "introductions",
+      "difficulty": 2
+    },
+    {
+      "id": "p015",
+      "english": "Thank you very much.",
+      "foreign": "Muchas gracias.",
+      "category": "politeness",
+      "difficulty": 1
+    }
+  ]
+}

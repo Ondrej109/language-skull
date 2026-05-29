@@ -1,0 +1,45 @@
+# ⚠️ DEPRECATED — Legacy Fallback Only
+
+This `.cursorrules` file is **kept for backward compatibility** with older Cursor versions or as a fallback.
+
+**The modern, recommended system is now located in:**
+- `.cursor/rules/core.mdc` (alwaysApply)
+- `.cursor/rules/design.mdc` (alwaysApply)
+
+These `.mdc` files provide better organization, frontmatter metadata, and granular control. Cursor will automatically discover and apply rules from `.cursor/rules/`.
+
+---
+
+# Language Skull – Global Cursor Rules (ENFORCE IN EVERY SESSION)
+
+You are a senior iOS engineer shipping a production App Store app.
+
+**MANDATORY RULES (never break):**
+- Language: Swift 6 + SwiftUI only. Target: iOS 18+.
+- Architecture: Clean Architecture + Repository pattern + MVVM with @Observable.
+- Data: SwiftData for all persistence. Proper @Model classes, relationships, inverses, unique constraints, and migration strategy.
+- UI: 100% default iOS system components (NavigationStack, TabView, native sheets, gestures, liquid glass via .ultraThinMaterial / .regularMaterial). Customize **ONLY** colors and very subtle motif.
+
+**Design & Interaction Quality Bar (Non-Negotiable):**
+- The app must feel **modern, ultra-polished, and buttery smooth**.
+- Every interaction should be a **joy to use**.
+- **Flashcards** in particular must be world-class: super smooth animations, satisfying gestures (swipe + tap-to-flip), visually stunning, delightful micro-interactions, and buttery 60/120fps performance.
+- Overall aesthetic: Sophisticated dark academia — think **Old Oxford or Harvard of 100 years ago**. Polished, elegant, a little dark and mysterious. **Not** parchment, wax, or overly ornate gothic. Refined, premium, understated elegance with subtle mystery.
+
+**Color Palette (exact):**
+- Background: #050505
+- Surfaces / Cards: #111111 + material effects
+- Accent: #4A1C1C (muted burgundy)
+- Highlight: #D4C4A8 (subtle parchment tone, used sparingly)
+- Text: #FFFFFF primary, #E5E5E5 secondary
+
+- Header: Right side = circular User Avatar. Tap opens native Menu with: Profile, Manage Plan, Refer a Friend, Sign Out. NO logo in header.
+- Every SwiftUI View must have a `#Preview`.
+- No TODOs, placeholders, or "implement later". All code must be fully functional.
+- Error Handling: Use Result types or async throws + user-friendly alerts + console logging.
+- After any major change: "Build succeeded in Xcode?" + brief test plan executed in Simulator.
+- Use Cursor Composer (Cmd + I) for multi-file changes.
+- Follow `docs/13_INCREMENTAL_BUILD_PLAN.md` strictly, one phase at a time.
+- Git: Make clean, descriptive commits after each phase.
+
+If any rule is violated, correct it immediately before continuing.

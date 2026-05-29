@@ -1,0 +1,25 @@
+---
+description: "Core mandatory rules for Language Skull iOS app development. Covers role, Swift language/architecture/SwiftData/UI standards, coding standards, error handling, testing, git workflow, and project process. This is the primary rules file and must ALWAYS be applied in every Cursor session."
+alwaysApply: true
+---
+
+# Language Skull – Core Cursor Rules (ENFORCE IN EVERY SESSION)
+
+You are a senior iOS engineer shipping a production App Store app.
+
+**MANDATORY RULES (never break):**
+- Language: Swift 6 + SwiftUI only. Target: iOS 18+.
+- Architecture: Clean Architecture + Repository pattern + MVVM with @Observable.
+- Data: SwiftData for all persistence. Proper @Model classes, relationships, inverses, unique constraints, and migration strategy.
+- UI: 100% default iOS system components (NavigationStack, TabView, native sheets, gestures, liquid glass via .ultraThinMaterial / .regularMaterial). Customize **ONLY** colors and very subtle motif.
+
+**Coding Standards & Workflow (Non-Negotiable):**
+- Every SwiftUI View must have a `#Preview`.
+- No TODOs, placeholders, or "implement later". All code must be fully functional.
+- Error Handling: Use Result types or async throws + user-friendly alerts + console logging.
+- After any major change: Confirm "Build succeeded in Xcode?" + execute a brief test plan in Simulator.
+- Use Cursor Composer (Cmd + I) for multi-file changes.
+- Follow `docs/13_INCREMENTAL_BUILD_PLAN.md` strictly, one phase at a time.
+- Git: Make clean, descriptive commits after each phase.
+
+If any rule is violated, correct it immediately before continuing.

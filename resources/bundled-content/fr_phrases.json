@@ -1,0 +1,113 @@
+{
+  "language": "fr",
+  "language_name": "French",
+  "content_type": "phrases",
+  "version": 1,
+  "phrases": [
+    {
+      "id": "p001",
+      "english": "How are you?",
+      "foreign": "Comment ça va ?",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p002",
+      "english": "Nice to meet you.",
+      "foreign": "Enchanté de vous rencontrer.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p003",
+      "english": "What is your name?",
+      "foreign": "Comment vous appelez-vous ?",
+      "category": "introductions",
+      "difficulty": 1
+    },
+    {
+      "id": "p004",
+      "english": "My name is John.",
+      "foreign": "Je m'appelle John.",
+      "category": "introductions",
+      "difficulty": 1
+    },
+    {
+      "id": "p005",
+      "english": "Where is the bathroom?",
+      "foreign": "Où sont les toilettes ?",
+      "category": "travel",
+      "difficulty": 2
+    },
+    {
+      "id": "p006",
+      "english": "How much does it cost?",
+      "foreign": "Combien ça coûte ?",
+      "category": "travel",
+      "difficulty": 2
+    },
+    {
+      "id": "p007",
+      "english": "I don't understand.",
+      "foreign": "Je ne comprends pas.",
+      "category": "communication",
+      "difficulty": 2
+    },
+    {
+      "id": "p008",
+      "english": "Can you help me, please?",
+      "foreign": "Pouvez-vous m'aider, s'il vous plaît ?",
+      "category": "communication",
+      "difficulty": 2
+    },
+    {
+      "id": "p009",
+      "english": "Good morning.",
+      "foreign": "Bonjour.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p010",
+      "english": "Good night.",
+      "foreign": "Bonne nuit.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p011",
+      "english": "See you later.",
+      "foreign": "À plus tard.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p012",
+      "english": "I would like a coffee.",
+      "foreign": "Je voudrais un café.",
+      "category": "food_drink",
+      "difficulty": 2
+    },
+    {
+      "id": "p013",
+      "english": "Do you speak English?",
+      "foreign": "Parlez-vous anglais ?",
+      "category": "communication",
+      "difficulty": 2
+    },
+    {
+      "id": "p014",
+      "english": "I am from the United States.",
+      "foreign": "Je viens des États-Unis.",
+      "category": "introductions",
+      "difficulty": 2
+    },
+    {
+      "id": "p015",
+      "english": "Thank you very much.",
+      "foreign": "Merci beaucoup.",
+      "category": "politeness",
+      "difficulty": 1
+    }
+  ]
+}

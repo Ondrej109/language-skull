@@ -1,0 +1,218 @@
+{
+  "language": "de",
+  "language_name": "German",
+  "content_type": "words",
+  "version": 1,
+  "words": [
+    {
+      "id": "w001",
+      "english": "Hello",
+      "foreign": "Hallo",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "w002",
+      "english": "Goodbye",
+      "foreign": "Auf Wiedersehen",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "w003",
+      "english": "Please",
+      "foreign": "Bitte",
+      "category": "politeness",
+      "difficulty": 1
+    },
+    {
+      "id": "w004",
+      "english": "Thank you",
+      "foreign": "Danke",
+      "category": "politeness",
+      "difficulty": 1
+    },
+    {
+      "id": "w005",
+      "english": "Yes",
+      "foreign": "Ja",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": "w006",
+      "english": "No",
+      "foreign": "Nein",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": "w007",
+      "english": "Sorry",
+      "foreign": "Entschuldigung",
+      "category": "politeness",
+      "difficulty": 1
+    },
+    {
+      "id": "w008",
+      "english": "Water",
+      "foreign": "Wasser",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w009",
+      "english": "Bread",
+      "foreign": "Brot",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w010",
+      "english": "Apple",
+      "foreign": "Apfel",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w011",
+      "english": "Coffee",
+      "foreign": "Kaffee",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w012",
+      "english": "Milk",
+      "foreign": "Milch",
+      "category": "food_drink",
+      "difficulty": 1
+    },
+    {
+      "id": "w013",
+      "english": "House",
+      "foreign": "Haus",
+      "category": "home",
+      "difficulty": 2
+    },
+    {
+      "id": "w014",
+      "english": "Car",
+      "foreign": "Auto",
+      "category": "travel",
+      "difficulty": 2
+    },
+    {
+      "id": "w015",
+      "english": "Book",
+      "foreign": "Buch",
+      "category": "objects",
+      "difficulty": 2
+    },
+    {
+      "id": "w016",
+      "english": "Friend",
+      "foreign": "Freund",
+      "category": "people",
+      "difficulty": 2
+    },
+    {
+      "id": "w017",
+      "english": "Mother",
+      "foreign": "Mutter",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": "w018",
+      "english": "Father",
+      "foreign": "Vater",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": "w019",
+      "english": "Brother",
+      "foreign": "Bruder",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": "w020",
+      "english": "Sister",
+      "foreign": "Schwester",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": "w021",
+      "english": "Good",
+      "foreign": "Gut",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w022",
+      "english": "Bad",
+      "foreign": "Schlecht",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w023",
+      "english": "Big",
+      "foreign": "Groß",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w024",
+      "english": "Small",
+      "foreign": "Klein",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w025",
+      "english": "Beautiful",
+      "foreign": "Schön",
+      "category": "adjectives",
+      "difficulty": 2
+    },
+    {
+      "id": "w026",
+      "english": "One",
+      "foreign": "Eins",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": "w027",
+      "english": "Two",
+      "foreign": "Zwei",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": "w028",
+      "english": "Three",
+      "foreign": "Drei",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": "w029",
+      "english": "Where",
+      "foreign": "Wo",
+      "category": "questions",
+      "difficulty": 2
+    },
+    {
+      "id": "w030",
+      "english": "What",
+      "foreign": "Was",
+      "category": "questions",
+      "difficulty": 2
+    }
+  ]
+}

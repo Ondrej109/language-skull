@@ -1,0 +1,113 @@
+{
+  "language": "de",
+  "language_name": "German",
+  "content_type": "phrases",
+  "version": 1,
+  "phrases": [
+    {
+      "id": "p001",
+      "english": "How are you?",
+      "foreign": "Wie geht es dir?",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p002",
+      "english": "Nice to meet you.",
+      "foreign": "Freut mich, dich kennenzulernen.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p003",
+      "english": "What is your name?",
+      "foreign": "Wie heißt du?",
+      "category": "introductions",
+      "difficulty": 1
+    },
+    {
+      "id": "p004",
+      "english": "My name is John.",
+      "foreign": "Ich heiße John.",
+      "category": "introductions",
+      "difficulty": 1
+    },
+    {
+      "id": "p005",
+      "english": "Where is the bathroom?",
+      "foreign": "Wo ist die Toilette?",
+      "category": "travel",
+      "difficulty": 2
+    },
+    {
+      "id": "p006",
+      "english": "How much does it cost?",
+      "foreign": "Wie viel kostet das?",
+      "category": "travel",
+      "difficulty": 2
+    },
+    {
+      "id": "p007",
+      "english": "I don't understand.",
+      "foreign": "Ich verstehe nicht.",
+      "category": "communication",
+      "difficulty": 2
+    },
+    {
+      "id": "p008",
+      "english": "Can you help me, please?",
+      "foreign": "Kannst du mir bitte helfen?",
+      "category": "communication",
+      "difficulty": 2
+    },
+    {
+      "id": "p009",
+      "english": "Good morning.",
+      "foreign": "Guten Morgen.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p010",
+      "english": "Good night.",
+      "foreign": "Gute Nacht.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p011",
+      "english": "See you later.",
+      "foreign": "Bis später.",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": "p012",
+      "english": "I would like a coffee.",
+      "foreign": "Ich hätte gerne einen Kaffee.",
+      "category": "food_drink",
+      "difficulty": 2
+    },
+    {
+      "id": "p013",
+      "english": "Do you speak English?",
+      "foreign": "Sprichst du Englisch?",
+      "category": "communication",
+      "difficulty": 2
+    },
+    {
+      "id": "p014",
+      "english": "I am from the United States.",
+      "foreign": "Ich komme aus den Vereinigten Staaten.",
+      "category": "introductions",
+      "difficulty": 2
+    },
+    {
+      "id": "p015",
+      "english": "Thank you very much.",
+      "foreign": "Vielen Dank.",
+      "category": "politeness",
+      "difficulty": 1
+    }
+  ]
+}
